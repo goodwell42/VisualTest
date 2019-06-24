@@ -2,7 +2,7 @@
 
 ### just a test for Visual
 
-![图 可视分析系统](D:\Codes\Visual\task.jpg)
+![图 可视分析系统](task.jpg)
 
 根据刘晖老师发的文档介绍的技术，通过查阅资料实现一个类似的简单的系统界面。
 
